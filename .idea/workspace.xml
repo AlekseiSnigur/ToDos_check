@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68f53d90-7dbc-4e01-9ffc-8ebec4c118ff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/000ed590-59ea-47b6-9c77-cb80b1508491-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0020edae-e678-4f98-9166-2e8f11400652-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/00c3d206-b9c1-4973-9be6-af8caef5cb0c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/00c9cc5d-05c2-4cbc-91fc-88fc127064f2-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/00e4c937-ee3f-4e19-b2ce-6e29aa7cfecc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/01d2e594-5d3e-4396-9190-e4786d7d085a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/02d64024-fb5f-4e40-a8be-91fcf9dd0ccb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/03ce13fe-2aa1-4828-ba5f-ad9149cbfe12-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/042c2e3a-b945-4df9-ab56-c6d1b6bcef0b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/049026a8-c23f-4423-9bf0-600f29f19011-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/051c2428-246d-4a81-89db-ca44510a004c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/05498478-2c65-405a-962f-e6e40c394567-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/05da8046-acdc-4736-b34e-0d2ab67371d4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/063bb879-b5ed-43a2-bd59-8711716e0862-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0a2fb00b-fabd-4f3e-abbf-d2d207f1c49f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0a4b6f5a-e29c-4d2b-a790-d3d30573e68f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0ba84c74-cc6a-45da-8425-b156bca5a6e9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0bbc449a-ac81-4f5b-bad8-8f51f6a35154-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0be92d50-9b4d-447a-8814-388d58103264-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0c505305-c88f-4383-b680-30c69b0db7c8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0d7c93c9-e23a-4083-9401-3ec6124f6189-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0e2584c5-19c1-4639-945a-0ff6efa1bdc2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0e37620c-ab75-4c82-9303-9dd30dec4845-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0e3bec22-dbe6-4e7a-bb8a-c98ca1399cfa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0ef50eb6-e935-4bd9-87ee-931619f8d20c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0fb2cddc-7b01-43af-8b37-4b7103604166-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0fbba45d-8e46-4f15-9cfb-aea297b7c3a5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/120f440b-9a58-48cd-9446-a840a52f5caf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/12285cab-1b4b-424e-933e-3dce02f53843-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/130aa8d6-849d-499e-b390-f622634bdc4a-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/14005606-c869-4ecf-a237-af82126144b2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/156b13bb-80c2-4acf-935f-79c86ba95861-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/15d65105-1890-4a5f-9d20-e988aa2acbf4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/162e7819-5d89-4610-935a-acd36e78c692-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/180e0908-bd0b-48e5-8ba3-19364565f391-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/196e3506-31ac-4fbe-a176-fd3a858091d0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1a154054-adcf-45aa-a129-c4ac4c8f0380-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1b379119-ed00-4587-8e02-b051a3ea626d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1b73cd15-4a75-4007-8bfe-54f56d6b9d64-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1c3cdd79-8804-45f1-996a-7dbd913ccd0c-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1da9e19c-5a45-4df8-aec6-62e8208a80cd-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1e1facee-355a-4943-94df-1dbd07af7313-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1e7cc143-f7d3-428a-ba36-af6e502ed6f0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1e82a240-7e43-4483-90b1-efb0179b6cbc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1ea63ddc-2a3b-49dd-9198-3c34788adbb3-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1f028d7e-9113-435f-a93a-9f1a2efe996f-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/20734b6f-24ad-4b95-ab86-ae82e7ea508e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/211779a7-796a-469d-a309-84f44cd9bde1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2378f345-abce-4909-b47c-366a22896fec-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/23edc04c-9743-42e2-aaec-6f828f8c879b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2417f3e3-932f-4868-9cf5-2a73bd12a900-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/24d5c95b-2902-47d4-bbc8-662bc44fb151-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/25113ec9-1026-47b9-a34e-a98a669dfc63-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2532d4e1-70fc-4ba7-a423-91ef7947f86d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/25497cf1-ee05-4271-b414-356ce94e0d7f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/255a1c50-df0f-4703-87a5-f835dbf43e78-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2658f668-0b43-4d2a-82c1-49d9bf4ee0e6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/28a14fa5-c81c-41bf-a78a-16c269265f14-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2ac5d034-8b02-4dcd-b20f-f23842a7452c-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2b4474b1-c980-4215-a6ff-c5132acb350d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2bc7c954-53ae-4172-b3c7-e8e57cd76435-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2c766cf2-6750-4470-aaff-37086d37d533-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2ca5c6e8-fa4c-4c30-a12c-f84cb2237a97-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2d7a7372-b49c-4ff0-8288-3cc86b14cda7-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2e188fb9-82c2-4269-bfad-d4a7a61f3528-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2f2f4aa0-908d-426b-ad42-4c581aad7474-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2fc579e1-b042-4f4a-b764-df0de6e91d3b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/300e8757-4cdd-46d4-93db-6034a5fd3679-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/30e9554d-5987-47a6-b66b-3b5f9715bb67-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/33306c8d-cf43-4ae9-80d5-2da4a6e55819-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3405640c-2019-425e-a814-48b946469e9a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/35b38a3a-991c-4265-875b-06aee6d5f467-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/36cb58b1-1a6e-4842-a311-fee6e81db703-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3795ab44-b692-468f-820f-d98684505a7b-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/38f223a2-ba26-4582-8708-ef1f495be58b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3a5a8f04-1074-48c2-875c-368af8c60885-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3abac46a-1fc8-4e07-81e1-bbfd744ac0b1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3b545289-c25c-44e0-810b-efe11324209a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3bd3a495-6edb-47c4-8ceb-836d8ee634d0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3c2856e2-1a56-4cb0-8ee9-fd79753a6d92-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3c4b18a9-1876-4f98-b097-b393403537a1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3ceb34af-e693-4e30-b0e8-0babd44f21dd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3f6b21b2-e036-4a31-8f26-50df555f5b74-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/40686807-9351-4df9-9c2b-81eff64a7f25-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/40d2aa82-fe2a-4fd0-b2ab-a554c40674c6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/42b5acd2-e628-4934-98c4-a0d2cae58703-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/42efcc49-10ff-4c4d-8c57-d3d45ff30061-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/447b19b0-f7de-4018-9f40-8b47ced3eae2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/448202ac-f1ea-4f08-bd80-b4dd42bab49c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/46ee7360-c7be-4376-aa82-05a07394d51e-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/48c1a887-7881-42ef-b5af-72db899a2184-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/491757dc-08b3-48ab-9f89-0968fb667d6b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4a51c83b-448b-4aa6-bc22-c544a6531f4f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4bc2b24c-0c3f-4af0-882b-c815921afded-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4bffe683-8f50-4a8b-a117-67a829720e90-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4f9e9a9d-cc51-4b2c-ab05-c7ddffd184e7-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/501c6b65-cf59-4bce-b3f8-39aebb3543b0-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/50c63536-ed3b-402b-a59f-dd0e06495058-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/50fb1ac3-a9bc-44d3-b539-f00388c46b7b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/51e45675-4d91-4ec9-be08-8624769e751a-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/521337b2-8a26-4c69-9b50-50e7e4d5d60d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/55858e4f-c6b1-41e6-bf1e-d9f3ffa4685a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/56418fa6-28b8-4c03-b38d-63f9383d9710-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/57f31e25-e851-4d19-a3e1-81600f6fcaa6-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/57f5a131-3ebc-493e-a97d-b52c0646fc3c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/582c6d49-3e5a-4b46-9518-39f5db0b1459-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5cac84c1-a7fa-40a9-a85c-aa1ad2ffe893-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5cba5c05-d2cd-4803-8301-963f1a549db3-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5cda2c1c-097c-4ccb-b65e-ca43fd821f17-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5dd32a2a-ed61-40f8-9fe8-4c0710a3ffeb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5df0a629-fa1e-4748-ac7f-4403c1a8ad7a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5e33eeb4-71df-49d4-982d-70d2e3e38f9b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5e836203-feee-4090-b6a1-1d5a0676c7df-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/604e1455-9cbd-4367-8026-f150d302bac2-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/608dbbf6-1e7d-4ee6-9d64-29518ce1ec14-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/60c3fdce-b75f-4bc4-abf3-2c322489ee9e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6134bcf0-afc3-4fe9-b522-337d15ca8b11-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/625533f4-c298-4f56-9723-0b3c247acc90-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/62ceade8-7494-43b7-a6dd-e0ba25d28791-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/62ef5f58-e055-476c-a265-17aca5a4ac65-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/65a02d35-3fc3-48b0-8ca4-bbc7b5367ab9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/65d6af5b-9a7e-4428-aa56-6e5bcd4e22ec-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/65ec4e2f-3e60-47aa-b517-ce6d31aacc86-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/66b700c1-1530-4978-8ba4-3b41c939f578-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/68091cf5-c6af-47a4-8273-d16f586164b0-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6859438f-0987-4c50-8485-362ed8873319-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/691b2046-ff5d-4b72-9737-ffe709cfc18c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/692ddc42-26de-421f-9563-cc3cf924c67d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/694e91f8-8727-461b-8c60-7b431804dd16-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6ad84902-0a63-4a06-8d51-d1e1cbdc9f6a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6aec70a0-c24f-4687-893f-02e647dc2906-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6bb70245-f641-49d4-a86e-be3733661b3f-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6bc31abb-938f-4fec-9714-aa3ee634495c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6d7f679f-58a2-492a-894e-095eed69703c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6dc71d44-5a94-42b3-8011-abdae556697f-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6dfe0566-e1b5-4d73-98cc-c362d6072a0d-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6fa02104-3297-4a5a-b5fc-8da12a822e9a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7091ca68-73b5-4b78-835b-db1c270276cc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/716d08da-e15a-4376-af75-9e82ceeaa065-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/72303485-c5b4-48c2-8fbc-d718b2ab39c2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/724e4b0d-3295-4c68-989f-03d005aea661-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/72b23925-ed66-4345-bd62-5595a0a5879e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/72ea86b3-34b5-44d5-9098-64b28f035df0-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/72efb15f-8830-49ae-9d8f-bb0e2e714e29-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/74651d6f-7308-4803-8b4a-4d7a1f2b7c61-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7470a486-d3d3-484d-9588-50d21753a4e0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7485f478-8b61-4829-8107-10a948013908-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7588e2a1-afc3-4669-835f-b782ac3891fa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/75f16c2e-9572-4b75-b154-f51ae50f29c7-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7672beb5-ec47-4aa6-814e-80116d3e2e15-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/77d86b61-c614-4677-bc8b-294374fb68fc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/781cae09-23a0-411a-80c4-44f1a783dd78-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/78570c19-f60d-46d8-a739-b2d383d285fb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7892b2ba-0a6d-4e38-ad3a-b37001d40bca-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/78cfd6b1-6ec2-4400-b241-65bd4649cea7-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/78f9e3e3-ead8-470d-b618-3bbaab509bbb-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/79dccccd-afe0-411e-8e12-d38608b769ab-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/79e34b54-9a20-4a30-b481-cb85b3184c5d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7a6c86b0-5f91-46fe-8d6b-cf01341992ec-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7af0d530-8ea2-4d42-be1d-dfeecb34bb1a-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7ba2e4b4-1799-48d0-9fc7-c5663812dd30-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7bdb3a0f-a164-4221-afc2-fa88be4d5353-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7cb6cf2e-3a24-4fa0-87d0-b9bc565c919c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7f1da8bf-45f2-46d2-b83e-b46e50fc07b4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7f24aad6-7881-494b-90cd-671dd1215f90-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7fe0cf97-1512-4105-bc9c-88d5a99eb5f2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/801d3ff9-ba68-4a93-ac43-d8cde118b644-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8146f485-ae45-43a6-aa07-5ba1eedaebe9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/839e0602-5a81-495c-8ca7-7cc5b06dbe5b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/84ecc0b5-8235-4473-b524-0b2d5937bf3d-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8a0d1262-4c6f-4b77-98a4-d74a29d02abf-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8ad9b3c3-c618-451a-b43e-1df66c9dec85-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8ae76873-0fc5-4938-8d12-839cbcd7c171-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8c82ea58-5b9c-40d1-a9d8-321e8824cee2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8c9ca09b-6bac-4f9b-a761-053161d495c2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8dfef976-3d7a-4785-b133-351c4ecbbe1f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8e2386d3-69a8-44a3-b32a-699d6c41a34c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8e363f64-9709-4229-8b5e-007f81442e81-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8e627c3a-627b-431f-ada7-5c15e9105ad9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8f95e1bb-74a7-4179-87a5-edb52416e8a1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/92698870-c3c4-422f-bd63-b3be6f8ab445-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/93746092-ebd2-4f97-b134-43ed92a9f2b6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9587c582-4773-413e-b5ba-15a90c164900-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/96633edd-aadd-49c3-bbba-cb64481b4ff9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/96a1143e-fbb7-45ae-9efa-b8f9d02810a1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/96f39c37-3d7f-4f11-9786-621e38fdf24d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/97143869-8d9b-4ca0-ab26-3a75f5dfb9f9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/98523995-6dd0-4dec-a4cd-24a34f9a2009-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/98aeb655-c49c-47eb-81b3-38e0971d4b91-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/991dc5e3-87e7-4c71-b771-66f87e5c0ff5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9a1e980b-b24d-4589-82f7-7d89dbde4235-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9a579461-5843-4c18-8a17-83b38ab8eba5-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9a74942e-15b1-4f0c-a9de-b28bf8eeb1da-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9c4e90bf-d59e-47e5-91f8-b7f9e6d49d4d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9ccc1d4b-6551-45db-9b3d-523a03c418b9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9d20698e-e20e-4be5-a53b-b45be5871f37-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9de53f5e-74f3-4fbe-aba5-114cfd617472-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9e45f5a5-034b-4dd0-8218-e6f339d2bce1-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9e584697-8152-49cb-b1b6-6c377b8f68af-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9ec16917-6c11-4dd3-a9d0-9ddd56723468-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9ed78dff-d0ea-4a48-bf64-beec94f5bd11-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9f0fdd7f-71b8-44e7-a827-37b3a9d4b68f-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9f3396f6-82b9-484e-8457-8050ab5c8b1b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9f37fb6a-b345-46ab-8a3e-ef854ba55859-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9fa53726-814a-48c1-ab54-8547b76a5959-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a0022f24-43e0-4192-8033-3b9b439a21cf-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a124d22a-8ce9-4fb7-bb27-42816818ba90-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a1d97d38-ef59-4638-bc4f-ee1cdfc7eec7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a4b69394-075c-4be6-b2ed-4438183c4465-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a550ff1c-1349-4cc0-aa46-c6cd279b078b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a6e161cb-71c9-4c4d-9217-b41524a6350a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a75ab07e-8f7e-4cc7-b054-0d1674c65274-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a7b72ad8-6018-404a-81ce-0ab739a09dc5-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a7c1c02c-bc7d-4d17-9cdd-f9e6ec316604-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a7dfd2fd-dcf6-449c-b677-27607af953c3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a8ba7748-c039-4b48-9e84-9c221987023d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a97b2d47-7fa7-4a84-9a63-d215df2b50a9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ab164980-ffb3-48db-93ab-e203d8aaf2c9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ab23c016-b4da-4f32-ac9e-309c66b8e150-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/accefb64-afe6-4c51-a2f0-4d98dfc589d8-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/af1c3160-3507-4e55-9fce-a082fea79a06-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b0819b06-25b0-4e83-9c28-d35f4bc6d192-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b087692e-8470-4294-8bc5-f1c7c17797a9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b1d3df8d-7ec4-4af6-8a9b-e83baee22a62-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b3d01a82-3039-4af9-bfaf-b68956144484-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b3e67078-00b9-46f8-878e-3dba5e7188d2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b404f39e-7334-4d13-acde-a7cbf805f2c9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b5fca3fb-ea42-4028-b44c-2dbc52bacd0b-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b725eeaf-21b5-42a1-98fe-5d4f0a79b2f0-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b73006f7-1ee4-4b4a-a291-9ff54afb4052-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b776ee51-29e1-4ff1-99e0-76fa3bebf4c7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b790ca24-1c30-4bb5-8d3f-fe9e0ddf6a6e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b7ca544f-1c21-4828-a1d1-43cdd9f43092-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b928d846-d96a-4625-b826-98989f652f3b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b97cacae-356d-40eb-9f75-5c525339e031-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b9ac38a5-c021-41ca-938f-d27707ebda2c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ba0b6bbc-f710-4433-bce4-1ee0e988c8b1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ba6bfc32-3672-44c5-80c3-c005b0ae89df-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bad93c97-5736-44d0-a02b-a80c9d3a2caa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/baeac63f-e45a-4838-9626-a5843ab3e602-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bb944ccc-83b3-46e8-b9bf-35ffc2b19341-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bbe01ae7-29c5-4414-b473-3b27538a56c7-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bbeb0867-e0d2-4e4c-bda0-ffa11b090958-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bec9a8a1-09c3-4ddd-a703-7025ab4514fb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bf1622c3-7cb9-4376-b9e1-f5a75a1f0eb3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bf635dfb-84b2-420c-bc93-7b5202565775-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bfbe680b-5c11-48aa-a8fb-9ad185a14a42-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c2339704-5341-4f18-8351-b764e3be431c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c354a051-1466-4163-ae45-0c0c761ca580-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c3cc3ed4-c6dd-49b2-835b-ec27c0d7ccb7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c491063f-ea21-4084-8944-f84408686f88-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c5cada17-e95b-4ee3-bcab-cfbda924b453-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c76635be-aaa9-42f3-a4a7-b7e182cf0edd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c79f5e24-99ba-40b5-917b-d1c4050f0d05-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c83ad9c4-03a2-4208-981d-00b8d6920fae-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c938add4-51ce-4d87-8e8b-8ce975bed09e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c9c62377-848a-4ae3-b6d7-e81055e601de-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ca660960-857e-45ae-9dc6-0d92477ad772-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cbb1c200-9f68-4bf1-b46d-28c170b9bf63-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cc983267-c338-428d-82b3-96bfc7f2d50a-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cccdc650-f74a-4ad4-88d9-e4849fdd29d1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cd87db1f-6c39-4a80-baf6-aac6169ca9cf-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cfed1b37-642d-4589-948a-d36747a7574e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cff438a2-ae77-4d6c-8914-e61455207176-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d07c3d6b-6bc2-4b3b-aad7-4c152325d48b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d09e9a98-9b94-4e5b-87fe-82dd94eb1f98-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d1fd6946-b7a1-4fc5-9129-204baf0cd43a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d27627b1-aa70-4615-8261-8aa7d1ea09b1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d280acf9-3c57-4910-9a25-75de56c5c274-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d2ca9b4a-99e8-4b85-84b2-576ef98f1744-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d32d5009-dfc6-4e1c-894f-082ee72c286a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d34fd4d5-2d21-4ac6-8714-d5e41ee4f4b6-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d4c9e088-8fcd-44e3-84e2-37b7a7a79beb-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d5029089-7128-4e1a-9e47-e34d907e70bb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d563092b-9dc5-42c9-bae6-427f1baaf43a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d5ab0efc-92e7-48ef-aaa5-f2cd8aabf8fc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d5e77d52-e87b-4336-8799-841983996c69-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d6712165-be6b-4167-a542-dc30a7e47a76-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d6e41b65-7c88-4aee-b7aa-0e6aab773461-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d7eaf443-753f-429a-9fb2-0d9d21b9bac1-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d8ce9b0c-25f3-4bf5-b593-7078b417d9ba-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d9a186f0-f19f-4f69-8e09-bdf3538e838d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/db03922e-a19c-4202-aec6-e570c7e3c667-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/db28a481-a164-43ba-baed-057be6daf677-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/db3e6202-2474-42b2-9fe8-fe121de5673f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/db5adbcf-69a9-43ae-8d20-098d10c5fa78-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dc9735d5-6f0b-4425-a547-079f8437aa3d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dd6483c2-081e-4b84-82dd-6c55a21438fe-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dd65b8a6-d11e-40a3-84bd-16959f06cd19-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ddf00d8e-272a-42b6-b1a5-ab8b2a6b5021-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/defe13cf-88c5-4b93-ae03-28233602b1bb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e2412263-45fa-426c-a92e-6a25279784ce-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e33ee3e9-f315-49eb-be0d-4419967694b8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e4819d09-6b22-4856-ad53-6de318f3dfca-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e490dac5-794b-40e8-8891-a88d9a65a982-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e4ab1b0a-5eb6-4a4b-b162-ea2a9bcf3075-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e69b04aa-a11d-436b-a8d5-f3257273bdec-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e9af423e-67f6-4ac9-b899-fe358be162e4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e9c01986-00e9-485d-b50c-1abfb334801f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ea7cff3a-e7fa-4664-a321-3aa4240f1b27-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ea7e4e28-39c3-41c4-accf-2cdad29f499e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ea814b46-9a5a-4fe1-8e44-a488d9b6e70e-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ead84182-caa0-4e39-b079-591ef6fa2e58-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/eae57cf8-69e5-4cee-8ddb-f6129e956154-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/eb57372a-f1bd-4895-b256-f4a3f699bb93-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ec618fe3-dcb9-46f7-a2f7-8b4633386c7f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/edcce162-9b18-42ae-a84a-ccb54ccf611f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/efd59bd4-aa5d-4716-af4d-6631c63e6bbc-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f0af3143-1ec5-4f28-9118-47ea8cfaf706-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f1b83f95-4b4f-4aac-83b8-08b7649a1933-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f2b314e4-b79a-49a8-81bd-0279272c2175-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f3908b4b-f30a-4cda-96e6-5ec7fbb204ef-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f3fbed76-bb16-4c17-aa33-ad60a58e3c63-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f61e6a93-fedf-4284-87e2-dd51d43b38e5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f83f4d2a-e01f-45c1-85ba-9b168ef4b999-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f9228d49-48aa-4cc1-a229-7bf48d615991-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f922e582-5fcb-4bcf-bf4d-51bbbfd84344-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f92fb750-9226-46bf-b542-135e7280c6fa-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f98da7a0-f348-4659-9880-66484f0437f0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f9a1faff-e664-4d4d-8b08-239e863422f3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fa838176-c083-490c-b052-8e3507fd4639-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fae2a55a-1263-40a1-a7c8-905b237c7ed7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fbe98909-00dc-41f5-97c7-672416796dfa-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fc79954f-57b6-419d-9fe0-f5cb5a983820-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fd0c38e0-5464-4fb9-9557-c1518ee399ec-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fd623fc4-d545-46df-bbc3-f19fc8c1618f-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ff94cd0b-755c-44f0-a507-b9782c592455-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ff9eb7ec-dafd-4b60-9374-1071ac9197e7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ffe1789f-c229-41be-abe4-dbe6b6e24ee4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browsers.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/todoscheck/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/todoscheck/MainPageTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2f2QzLCToDdxhSid9veNbXgK2az" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JUnit.MainPageTest.changeTaskStatus.executor": "Run",
+    "JUnit.MainPageTest.checkSelectedTabByDefault.executor": "Run",
+    "JUnit.MainPageTest.checkTabsNavigation.executor": "Run",
+    "JUnit.MainPageTest.clearCompletedButtonTest.executor": "Run",
+    "JUnit.MainPageTest.createEmptyTask.executor": "Run",
+    "JUnit.MainPageTest.createTask.executor": "Debug",
+    "JUnit.MainPageTest.createTaskAndCheckName.executor": "Run",
+    "JUnit.MainPageTest.deleteCompleteTaskWithClearCompletedButton.executor": "Run",
+    "JUnit.MainPageTest.deleteCompletedTaskWithXIcon.executor": "Run",
+    "JUnit.MainPageTest.deleteIncompleteTaskWithClearCompletedButton.executor": "Run",
+    "JUnit.MainPageTest.deleteIncompleteTaskWithXIcon.executor": "Run",
+    "JUnit.MainPageTest.deleteTask.executor": "Run",
+    "JUnit.MainPageTest.deleteTaskWithClearCompletedButton.executor": "Run",
+    "JUnit.MainPageTest.deleteTaskWithXIcon.executor": "Run",
+    "JUnit.MainPageTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.MainPageTest">
+    <configuration name="MainPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ToDosCheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.todoscheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.todoscheck" />
+      <option name="MAIN_CLASS_NAME" value="com.example.todoscheck.MainPageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTest.checkSelectedTabByDefault" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ToDosCheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.todoscheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.todoscheck" />
+      <option name="MAIN_CLASS_NAME" value="com.example.todoscheck.MainPageTest" />
+      <option name="METHOD_NAME" value="checkSelectedTabByDefault" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTest.checkTabsNavigation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ToDosCheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.todoscheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.todoscheck" />
+      <option name="MAIN_CLASS_NAME" value="com.example.todoscheck.MainPageTest" />
+      <option name="METHOD_NAME" value="checkTabsNavigation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTest.deleteCompleteTaskWithClearCompletedButton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ToDosCheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.todoscheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.todoscheck" />
+      <option name="MAIN_CLASS_NAME" value="com.example.todoscheck.MainPageTest" />
+      <option name="METHOD_NAME" value="deleteCompleteTaskWithClearCompletedButton" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTest.deleteIncompleteTaskWithClearCompletedButton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ToDosCheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.todoscheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.todoscheck" />
+      <option name="MAIN_CLASS_NAME" value="com.example.todoscheck.MainPageTest" />
+      <option name="METHOD_NAME" value="deleteIncompleteTaskWithClearCompletedButton" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MainPageTest" />
+        <item itemvalue="JUnit.MainPageTest.checkTabsNavigation" />
+        <item itemvalue="JUnit.MainPageTest.checkSelectedTabByDefault" />
+        <item itemvalue="JUnit.MainPageTest.deleteIncompleteTaskWithClearCompletedButton" />
+        <item itemvalue="JUnit.MainPageTest.deleteCompleteTaskWithClearCompletedButton" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68f53d90-7dbc-4e01-9ffc-8ebec4c118ff" name="Changes" comment="" />
+      <created>1712996955706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712996955706</updated>
+      <workItem from="1712996956770" duration="163000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
