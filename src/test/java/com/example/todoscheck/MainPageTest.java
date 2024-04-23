@@ -87,5 +87,4 @@ public class MainPageTest {
         mainPage.toDoInput.pressEnter();
         mainPage.toDoItemLabel.shouldNotBe(visible);
     }
-
 }
